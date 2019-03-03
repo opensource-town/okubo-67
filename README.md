@@ -4,3 +4,5 @@
 
 - プロジェクト未満のものは[準備と計画](https://github.com/opensource-town/okubo-67/projects/1)へ
 - それ以外は、[Projects](https://github.com/opensource-town/okubo-67/projects)へ
+
+![front](front.jpg)
